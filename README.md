@@ -1,5 +1,5 @@
 # PDX Guild final project
-## Name : VidSo
+## Name : VidOp
 *** This will be an interactive real time video communication app. It will be able to do same time screen sharing, video chatting, and private or group messaging. You will be able to add people to groups and make them private or public. ***
 
 >"As a business owner, I want group messaging because I want connect with my >employees about important milestone that need to reached, and problems that need >to be solved, and other work related aspects."
